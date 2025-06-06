@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Gilang Hidayatullah you can call me Lang 👋 🇮🇩
 
-<!--
-**hidatara-ds/hidatara-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI & Machine Learning Engineer** and passionate **Data Science enthusiast**.  
+I build intelligent solutions, experiment with new technologies, and love everything at the intersection of data, code, and creativity.
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Golang, Java, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Flask, FastAPI, React, Streamlit, TensorFlow, Docker
+- **Cloud & ML Ops:** Google Cloud Platform, Vertex AI, Cloud Run, Docker
+- **APIs & AI:** Gemini, OpenRouter, LiteLLM, Multimodal AI, WebSocket
+- **Other:** Artificial Intelligence, Deep Learning, Machine Learning
+
+## ⚡️ Fun Facts
+
+- When I'm not coding, you'll probably find me hiking a trail or watching (and playing!) football.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghidayat943/)
+
+---
+
+> "Stay curious, keep learning, and let's build something amazing together. ✨"
