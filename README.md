@@ -41,8 +41,6 @@ I build intelligent systems, explore creative applications of data, and love wor
 
 ## 📫 Let’s Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghidayat943/)
-
 ---
 
 > _"Stay curious, keep learning, and let’s build something amazing together."_ ✨
