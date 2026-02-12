@@ -4,16 +4,15 @@
 ---
 
 ## 🧠 About Me
-I design & build practical, production-ready systems across the AI ↔ backend ↔ data spectrum.
+I build production-ready AI systems and backend services—focused on reliability, evaluation, and clean delivery.
 
-- **AI & ML** — classical ML (regression/classification), **deep learning** (CV/NLP), **LLMs**, evaluation & MLOps basics  
-- **Backend & APIs** — RESTful services, **FastAPI/Flask**, auth, caching, task queues, testing & observability  
-- **Data & Analytics** — data cleaning, feature engineering, **SQL**, dashboards, experiment tracking  
-- **Cloud & DevOps** — **Docker**, CI/CD, **GCP (Vertex AI, Cloud Run)**, basic infra & cost-aware deployment  
-- **Robotics/IoT (hands-on)** — small projects integrating perception, speech, and control for real-world use  
-- **Builder mindset** — iterate fast, measure, ship; I enjoy turning ideas into working software  
+- **AI/ML**: CV/NLP, LLM apps, evaluation, and MLOps fundamentals  
+- **Backend**: FastAPI/Flask, REST APIs, auth, caching, async tasks, testing & observability  
+- **Data**: SQL, feature engineering, experimentation, dashboards  
+- **Cloud**: Docker, CI/CD, GCP (Vertex AI, Cloud Run), cost-aware deployments  
+- **Hands-on**: robotics/IoT projects integrating perception and speech  
 
-> I love learning new stacks and simplifying complex problems into clean, scalable solutions.
+> I enjoy turning ambiguous problems into simple, scalable products.
 
 ---
 
@@ -28,28 +27,36 @@ I design & build practical, production-ready systems across the AI ↔ backend �
   <img alt="data" src="https://img.shields.io/badge/Data-MySQL%20%E2%80%A2%20Redis%20%E2%80%A2%20Pandas%20%E2%80%A2%20NumPy-7C3AED?style=for-the-badge">
   <br/>
   <img alt="cloud" src="https://img.shields.io/badge/Cloud-GCP%20%E2%80%A2%20Vertex%20AI%20%E2%80%A2%20Cloud%20Run-0F766E?style=for-the-badge">
-  <img alt="devops" src="https://img.shields.io/badge/DevOps-Docker%20%E2%80%A0%20GitHub%20Actions-0F766E?style=for-the-badge">
+  <img alt="devops" src="https://img.shields.io/badge/DevOps-Docker%20%E2%80%A2%20GitHub%20Actions-0F766E?style=for-the-badge">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Highlights
 
-<!-- Row 1: Stats + Top Langs + Streak (merged) -->
+<!-- Row 1: Profile details (optional but nice) -->
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=hidatara-ds&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hidatara-ds&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    height="165"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidatara-ds&theme=github_dark"
+    alt="Profile Details"
   />
 </p>
 
-<!-- Row 2: Streak + Activity Graph (merged) -->
+<!-- Row 2: Languages (fairer than bytes) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidatara-ds&theme=github_dark"
+    height="165"
+    alt="Repos per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidatara-ds&theme=github_dark"
+    height="165"
+    alt="Most Commit Language"
+  />
+</p>
+
+<!-- Row 3: Streak + Activity Graph -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=hidatara-ds&theme=dark"
@@ -63,6 +70,7 @@ I design & build practical, production-ready systems across the AI ↔ backend �
   />
 </p>
 
+---
 
 ## 📫 Connect
 <p align="center">
