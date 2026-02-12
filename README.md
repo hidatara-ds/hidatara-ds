@@ -11,7 +11,7 @@ I design & build practical, production-ready systems across the AI ↔ backend �
 - **Data & Analytics** — data cleaning, feature engineering, **SQL**, dashboards, experiment tracking  
 - **Cloud & DevOps** — **Docker**, CI/CD, **GCP (Vertex AI, Cloud Run)**, basic infra & cost-aware deployment  
 - **Robotics/IoT (hands-on)** — small projects integrating perception, speech, and control for real-world use  
-- **Builder mindset** — iterate fast, measure, ship; I enjoy turning ideas into working software
+- **Builder mindset** — iterate fast, measure, ship; I enjoy turning ideas into working software  
 
 > I love learning new stacks and simplifying complex problems into clean, scalable solutions.
 
@@ -28,28 +28,41 @@ I design & build practical, production-ready systems across the AI ↔ backend �
   <img alt="data" src="https://img.shields.io/badge/Data-MySQL%20%E2%80%A2%20Redis%20%E2%80%A2%20Pandas%20%E2%80%A2%20NumPy-7C3AED?style=for-the-badge">
   <br/>
   <img alt="cloud" src="https://img.shields.io/badge/Cloud-GCP%20%E2%80%A2%20Vertex%20AI%20%E2%80%A2%20Cloud%20Run-0F766E?style=for-the-badge">
-  <img alt="devops" src="https://img.shields.io/badge/DevOps-Docker%20%E2%80%A2%20GitHub%20Actions-0F766E?style=for-the-badge">
+  <img alt="devops" src="https://img.shields.io/badge/DevOps-Docker%20%E2%80%A0%20GitHub%20Actions-0F766E?style=for-the-badge">
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hidatara-ds" height="165" />
-</p>
-
-<!-- Row 3: Activity Graph -->
+<!-- Row 1: Stats + Top Langs + Streak (merged) -->
 <p align="center">
   <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=hidatara-ds&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hidatara-ds&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Row 2: Streak + Activity Graph (merged) -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hidatara-ds&theme=dark"
+    height="165"
+    alt="GitHub Streak"
+  />
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=hidatara-ds&theme=tokyo-night&hide_border=true"
-    width="100%"
+    height="165"
     alt="Activity Graph"
   />
 </p>
 
----
 
 ## 📫 Connect
 <p align="center">
