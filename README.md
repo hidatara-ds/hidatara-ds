@@ -1,40 +1,47 @@
 <h1 align="center">Hi, I'm Gilang Hidayatullah 👋</h1>
-<p align="center"><i>AI & Machine Learning Engineer • Backend & Data Enthusiast</i></p>
+<p align="center"><i>AI/ML Engineer (MLOps-minded) • Backend Builder • Robotics (Pepper)</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hidatara-ds&label=Profile%20views&style=flat" />
+</p>
 
 ---
 
 ## 🧠 About Me
-I build production-ready AI systems and backend services—focused on reliability, evaluation, and clean delivery.
+I build **production-oriented AI systems**—from device/real-time inputs to APIs and cloud deployments.
+My edge: **Robotics + Cloud (GCP) + Backend** with a focus on reliability and clean delivery.
 
-- **AI/ML**: CV/NLP, LLM apps, evaluation, and MLOps fundamentals  
-- **Backend**: FastAPI/Flask, REST APIs, auth, caching, async tasks, testing & observability  
-- **Data**: SQL, feature engineering, experimentation, dashboards  
-- **Cloud**: Docker, CI/CD, GCP (Vertex AI, Cloud Run), cost-aware deployments  
-- **Hands-on**: robotics/IoT projects integrating perception and speech  
+- **Robotics (Pepper)**: face recognition, onboarding (register), interaction flow (device → API → response)
+- **Production AI on GCP**: Cloud Run services, GCS-native runtime (no key.json), Vertex AI usage
+- **Backend for ML**: Flask/FastAPI, REST APIs, caching, structured outputs, logging-first mindset
+- **Realtime-ish pipelines**: Redis as temporary store, keyframe optimization (PNG/hash) for efficiency
 
-> I enjoy turning ambiguous problems into simple, scalable products.
+> I enjoy turning ambiguous problems into simple, scalable products—especially in high-trust, public-facing settings.
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img alt="langs" src="https://img.shields.io/badge/Languages-Python%20%E2%80%A2%20Go%20%E2%80%A2%20Java%20%E2%80%A2%20JavaScript-0A2540?style=for-the-badge">
+  <img alt="langs" src="https://img.shields.io/badge/Languages-Python%20%E2%80%A2%20Go%20%E2%80%A2%20JavaScript-0A2540?style=for-the-badge">
   <br/>
-  <img alt="backend" src="https://img.shields.io/badge/Backend-FastAPI%20%E2%80%A2%20Flask%20%E2%80%A2%20React-2D6CDF?style=for-the-badge">
-  <img alt="web" src="https://img.shields.io/badge/Web-HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20Nginx-2D6CDF?style=for-the-badge">
+  <img alt="backend" src="https://img.shields.io/badge/Backend-Flask%20%E2%80%A2%20FastAPI%20%E2%80%A2%20REST-2D6CDF?style=for-the-badge">
+  <img alt="data" src="https://img.shields.io/badge/Data-Redis%20%E2%80%A2%20SQL%20%E2%80%A2%20Pandas%20%E2%80%A2%20NumPy-7C3AED?style=for-the-badge">
   <br/>
-  <img alt="ai" src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%E2%80%A2%20PyTorch%20%E2%80%A2%20HuggingFace%20%E2%80%A2%20LangChain-7C3AED?style=for-the-badge">
-  <img alt="data" src="https://img.shields.io/badge/Data-MySQL%20%E2%80%A2%20Redis%20%E2%80%A2%20Pandas%20%E2%80%A2%20NumPy-7C3AED?style=for-the-badge">
-  <br/>
-  <img alt="cloud" src="https://img.shields.io/badge/Cloud-GCP%20%E2%80%A2%20Vertex%20AI%20%E2%80%A2%20Cloud%20Run-0F766E?style=for-the-badge">
+  <img alt="ai" src="https://img.shields.io/badge/AI%2FML-DeepFace%20%E2%80%A2%20CV%20%E2%80%A2%20LLM%20Apps-7C3AED?style=for-the-badge">
+  <img alt="cloud" src="https://img.shields.io/badge/Cloud-GCP%20%E2%80%A2%20Cloud%20Run%20%E2%80%A2%20Vertex%20AI%20%E2%80%A2%20GCS-0F766E?style=for-the-badge">
   <img alt="devops" src="https://img.shields.io/badge/DevOps-Docker%20%E2%80%A2%20GitHub%20Actions-0F766E?style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 Highlights
+## 🚀 What to Check First (Highlights)
+- 🤖 **Pepper Robotics** — face recognition + register/recognize flow + greeting pipeline  
+- ☁️ **Cloud Run AI API** — audio(base64) → transcription → LLM response → TTS  
+- 🎥 **Video Analysis Pipeline** — local processing + Redis temp storage + keyframe optimization
 
-<!-- Row 1: Profile details (optional but nice) -->
+---
+
+## 📊 GitHub Snapshot
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidatara-ds&theme=github_dark"
@@ -42,7 +49,6 @@ I build production-ready AI systems and backend services—focused on reliabilit
   />
 </p>
 
-<!-- Row 2: Languages (fairer than bytes) -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hidatara-ds&theme=github_dark"
@@ -56,7 +62,6 @@ I build production-ready AI systems and backend services—focused on reliabilit
   />
 </p>
 
-<!-- Row 3: Streak + Activity Graph -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=hidatara-ds&theme=dark"
@@ -87,4 +92,4 @@ I build production-ready AI systems and backend services—focused on reliabilit
 
 ---
 
-> _"Stay curious. Keep learning. Build something meaningful."_ ✨
+> _"Ship real systems. Measure what matters. Keep learning."_ ✨
