@@ -1,12 +1,10 @@
-# Hi, I'm Gilang Hidayatullah 👋
+# Hi, I'm Gilang Hidayatullah
 
 **AI/ML Engineer** — production-oriented, MLOps-minded, cloud-native.
 
 I build end-to-end AI systems: from real-time device inputs and model inference to REST APIs and cloud deployment. My focus is shipping reliable systems — not just notebooks.
 
-Currently pursuing **Master of Artificial Intelligence @ Monash University**.
-
-<br>
+Currently pursuing **Master of Artificial Intelligence @Monash University**.
 
 ## 🛠 Tech Stack
 
@@ -44,7 +42,10 @@ Currently pursuing **Master of Artificial Intelligence @ Monash University**.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-<br>
+## Visitor
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hidatara-ds&label=Profile%20views&style=flat" />
+</p>
 
 ## 📫 Connect
 
