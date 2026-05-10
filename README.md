@@ -22,7 +22,11 @@ Currently pursuing **Master of Artificial Intelligence @Monash University**.
     <td valign="top">
       <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/OpenRouter-6B3FA0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-6B7280?style=flat-square"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
       <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
@@ -66,6 +70,17 @@ Currently pursuing **Master of Artificial Intelligence @Monash University**.
     <td valign="top">
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
       <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Dev Tools</b></td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     </td>
   </tr>
 </table>
