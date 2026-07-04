@@ -3,7 +3,9 @@
 I build end-to-end AI systems: from real-time device inputs and model inference to REST APIs and cloud deployment. My focus is shipping reliable systems — not just notebooks.
 Currently pursuing **Master of Artificial Intelligence @Monash University**.
 
-## 🛠 Tech Stack
+**Personal Website** **:**  [![Website](https://img.shields.io/badge/Portfolio-4A90D9?style=flat-square&logo=aboutdotme&logoColor=white)](https://hidatara.vercel.app/)
+
+## 🛠 Tech Stack 
 
 <table>
   <tr>
@@ -96,5 +98,9 @@ Currently pursuing **Master of Artificial Intelligence @Monash University**.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hidatara-ds)
 
 <br>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+production-grade+AI+systems;Currently+%40+Monash+University" />
+</p>
 
 > *"Ship real systems. Measure what matters. Keep learning."*
